@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mirko\\source\\repos\\LudoTestWpf\\LudoTestWpf\\LudoTestWpf.csproj": {}
+    "C:\\Users\\Mirko\\Desktop\\LudoGameWPF\\LudoGameBoard\\LudoTestWpf\\LudoTestWpf\\LudoTestWpf.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mirko\\source\\repos\\LudoTestWpf\\LudoTestWpf\\LudoTestWpf.csproj": {
+    "C:\\Users\\Mirko\\Desktop\\LudoGameWPF\\LudoGameBoard\\LudoTestWpf\\LudoTestWpf\\LudoTestWpf.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mirko\\source\\repos\\LudoTestWpf\\LudoTestWpf\\LudoTestWpf.csproj",
+        "projectUniqueName": "C:\\Users\\Mirko\\Desktop\\LudoGameWPF\\LudoGameBoard\\LudoTestWpf\\LudoTestWpf\\LudoTestWpf.csproj",
         "projectName": "LudoTestWpf",
-        "projectPath": "C:\\Users\\mirko\\source\\repos\\LudoTestWpf\\LudoTestWpf\\LudoTestWpf.csproj",
-        "packagesPath": "C:\\Users\\mirko\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mirko\\source\\repos\\LudoTestWpf\\LudoTestWpf\\obj\\",
+        "projectPath": "C:\\Users\\Mirko\\Desktop\\LudoGameWPF\\LudoGameBoard\\LudoTestWpf\\LudoTestWpf\\LudoTestWpf.csproj",
+        "packagesPath": "C:\\Users\\Mirko\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Mirko\\Desktop\\LudoGameWPF\\LudoGameBoard\\LudoTestWpf\\LudoTestWpf\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\mirko\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Mirko\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

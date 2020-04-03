@@ -60,6 +60,19 @@ namespace LudoTestWpf
                     {
                         button.Background = Brushes.Yellow;
                     }
+                    else if (row == 5 && column == 5)
+                    {
+                        button.Background = Brushes.Gold;
+                        button.Content = "GOAL";
+                    }
+                    else if (row == 4 && column >0 ||( column <5 && column >5) || (row == 6 && column >=0) || (column <5 && column >5) || (column == 4 && row >= 0 && row <= 10) || (column == 6 && row >= 0 && row <= 10))
+                    {
+                        button.Background = Brushes.Tomato;
+                    }
+                    else
+                    {
+                        button.Background = Brushes.Black;
+                    }
                     grid.Children.Add(button);
                     Grid.SetRow(button, row);
                     Grid.SetColumn(button, column);
